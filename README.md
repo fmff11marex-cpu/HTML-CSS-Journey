@@ -1,17 +1,32 @@
 # HTML & CSS Journey 
 
-A collection fo practical HTML & CSS exercises completed while exploring web development. 
+A collection of practical exercises focused on HTML elements and CSS styling.
 
-## Contents 
+## Projects
 
-- `buttons.html` - HTML buttons and CSS styling.
-- `website2.html` - A basic website layout and styling.
+### 1. Button Styling (`buttons.html`) 
+
+A set of six button examples demonstrating:
+- CSS colors and backgrounds
+- Borders and border-radius
+- Element dimensions and spacing
+- Font styling and cursor properties
+
+
+### 2. Product Information (`website2.html`)
+
+A basic HTML exercise featuring:
+- Hyperlinks
+- Product information
+- Price and availability text
+- Buttons and basic HTML elements
+
 
 ## Technologies 
 
 - HTML5
 - CSS3
 
-## Purpose 
+## Focus 
 
-This repository documents my practical work with HTML and CSS and serves as a foundation for further development in web technologies.
+Developing a solid understanding of HTML structure, CSS styling, and the relationship between HTML elements and their visual presentation.
